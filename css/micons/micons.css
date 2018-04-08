@@ -24,6 +24,21 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+/* Akan Symbls*/
+.icon-akan-knowledge:before {
+    content: url(../../images/fourpillars/knowledge.png);
+}
+.icon-akan-lives:before {
+    content: url(../../images/fourpillars/lives.png);
+}
+.icon-akan-multinational:before {
+    content: url(../../images/fourpillars/multinational.png);
+}
+.icon-akan-security:before {
+    content: url(../../images/fourpillars/security.png);
+}
+
+
 .icon-align-center:before {
     content: "\e900";
 }
